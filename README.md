@@ -16,3 +16,7 @@ Jquery Plugin [https://github.com/tolgaergin/social](https://github.com/tolgaerg
 
 Still in Progress
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/frozonfreak/angularjs-directive-for-social-profiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
